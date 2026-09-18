@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+httpx
+curl-cffi
+pycryptodome
+cryptography
+asn1crypto
+urllib3
